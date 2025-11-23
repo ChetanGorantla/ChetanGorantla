@@ -4,11 +4,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=180&section=header&text=Chetan%20Gorantla&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20Electric%20Guitar%20Enthusiast&descSize=18&descAlignY=55" alt="header"/>
 
 <!-- Dynamic Intro with Guitar Motif -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=2500&pause=1000&color=F75C03&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Backend+Developer+%7C+Database+Engineer;Building+Scalable+Systems+at+UT+Austin;Turning++into+Code+%E2%98%95%EF%B8%8F+%26+Riffs+into+Songs+%F0%9F%8E%B8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=F75C03&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=200&lines=Backend+Developer+%7C+Database+Engineer;Building+Scalable+Systems+at+UT+Austin;Turning++into+Code+%E2%98%95%EF%B8%8F+%26+Riffs+into+Songs+%F0%9F%8E%B8" alt="Typing SVG" />
 
 <!-- Social Badges -->
 <br/>
-<a href="https://linkedin.com/in/ChetanGorantla">
+<a href="https://www.linkedin.com/in/chetan-gorantla-93250a288/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
@@ -66,6 +66,11 @@
 - AI-powered disease diagnosis system
 - 97% prediction accuracy across 35+ diseases
 
+**Dulles VikeBytes**
+- Hosted district-wide hackathon as CS Club President
+- Collaborated with GirlBytes to spread awareness
+- 50+ competitors, $300+ revenue
+
 </td>
 </tr>
 </table>
@@ -94,7 +99,7 @@ gantt
 |:-----------|:--------------|:----------|:----------|
 | **Texas Convergent - AdTalk** | Real-time audio streaming with Whisper AI for advertisement detection | `Python` `React` `Supabase` `GCP` `OpenAI` | 42% accuracy boost, 3x query speed |
 | **Longhorn Developers - Mobilize UT** | Crowd-sourced campus accessibility routing system | `TypeScript` `React Native` `Expo` `Supabase` | 10K+ queries, <100ms response |
-| **DetectFX Studio** | Smarter, dynamic amplifier emulator with GPU-accelerated RNNs. Reverse-engineered proprietary DSP modularity algorithms | `Python` `FastAPI` `React` `ML` | 400+ users, 90% audio deconstruction accuracy |
+| **DetectFX Studio** | Smart amplifier emulator with GPU-accelerated RNNs. Reverse-engineered proprietary DSP modularity algorithms | `Python` `FastAPI` `React` `ML` | 400+ users, 90% audio deconstruction accuracy |
 | **CoffeeChat (Palantir)** | Autonomous RAG scraper with NLP partitioning | `Python` `FastAPI` `NextJS` `Foundry` | 3rd/80+, 98% labeling accuracy |
 | **KGK Diagnosis** | Multi-model disease prediction system | `Python` `Streamlit` `HuggingFace` | 9th nationally, 97% accuracy |
 | **DormMatch** | Semantic search engine for UT dorm matching | `Python` `FastAPI` `React` `NLP` | 300+ students matched |
@@ -174,7 +179,7 @@ When I'm not architecting backend systems or optimizing ML pipelines, you'll fin
   <img src="https://img.shields.io/github/followers/ChetanGorantla?label=Followers&style=flat&color=F75C03" alt="Followers" />
 </p>
 
-<sub>⚡ Fun fact: I can debug code and tune a guitar by ear</sub>
+<sub>⚡ Fun fact: I have been to Lego Land and Lego World!</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=100&section=footer" />
 
