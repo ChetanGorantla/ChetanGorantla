@@ -32,36 +32,37 @@
 <tr>
 <td width="50%">
 
-```javascript
-const chetan = {
-  location: "Austin, TX",
-  education: {
-    university: "UT Austin",
-    major: "Computer Science",
-    focus: ["Algorithms", "Systems", "AI/ML"]
-  },
-  current: [
-    "Software Engineer @ Texas Convergent",
-    "Fullstack Developer @ Longhorn Developers",
-    "Former SWE Intern @ JP Morgan Chase"
-  ],
-  interests: {
-    technical: ["Distributed Systems", "LLMs", "Blockchain"],
-    creative: ["Electric Guitar", "Music Production"]
-  },
-  philosophy: "Code with purpose, debug with patience 🎵"
-};
-```
+### 🎯 Snapshot
+
+**Currently Building @**
+- Texas Convergent → Real-time ad analytics w/ Whisper AI
+- Longhorn Developers → Campus accessibility routing for 10K+ users
+
+**Previously @**
+- Capital One • JP Morgan Chase • University of Houston Research
+
+**Technical Focus**
+> Distributed systems, LLMs, blockchain architecture, scalable infrastructure
+
+**When I'm Not Coding**
+> Shredding electric guitar riffs 🎸
 
 </td>
 <td width="50%">
 
-### Quick Highlights
-- 🏢 **Experience:** Capital One, JP Morgan Chase, UH Research
-- 🚀 **Impact:** Serving 10K+ users, processing 100GB+ datasets
-- 🎯 **Hackathons:** 3rd place @ Palantir, 9th nationally @ TSA
-- 🎸 **Beyond Code:** Electric guitar player & music enthusiast
-- ⚡ **Current Work:** Real-time AI systems & scalable infrastructure
+### 🏆 Recognition
+
+**Palantir Hackathon 2024**
+- 🥉 3rd Place out of 80+ teams
+- Built autonomous RAG scraping service
+- 98% data labeling accuracy
+- 70% faster than traditional vector search
+
+**TSA National Conference**
+- 🏅 9th Place Nationally (Top 0.012%)
+- 750+ projects, 10,000+ competitors
+- AI-powered disease diagnosis system
+- 97% prediction accuracy across 35+ diseases
 
 </td>
 </tr>
