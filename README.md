@@ -1,16 +1,191 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ChetanGorantla/ChetanGorantla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Guitar-Themed Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=180&section=header&text=Chetan%20Gorantla&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20Electric%20Guitar%20Enthusiast&descSize=18&descAlignY=55" alt="header"/>
 
-Here are some ideas to get you started:
+<!-- Dynamic Intro with Guitar Motif -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=F75C03&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Fullstack+Developer+%7C+AI+Engineer;Building+Scalable+Systems+at+UT+Austin;Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F+%26+Riffs+into+Songs+%F0%9F%8E%B8" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Social Badges -->
+<br/>
+<a href="https://linkedin.com/in/ChetanGorantla">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:ccg2863@my.utexas.edu">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://github.com/ChetanGorantla">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎸 About Me
+
+<table>
+<tr>
+<td width="50%">
+
+```javascript
+const chetan = {
+  location: "Austin, TX",
+  education: {
+    university: "UT Austin",
+    major: "Computer Science",
+    focus: ["Algorithms", "Systems", "AI/ML"]
+  },
+  current: [
+    "Software Engineer @ Texas Convergent",
+    "Fullstack Developer @ Longhorn Developers",
+    "Former SWE Intern @ JP Morgan Chase"
+  ],
+  interests: {
+    technical: ["Distributed Systems", "LLMs", "Blockchain"],
+    creative: ["Electric Guitar", "Music Production"]
+  },
+  philosophy: "Code with purpose, debug with patience 🎵"
+};
+```
+
+</td>
+<td width="50%">
+
+### Quick Highlights
+- 🏢 **Experience:** Capital One, JP Morgan Chase, UH Research
+- 🚀 **Impact:** Serving 10K+ users, processing 100GB+ datasets
+- 🎯 **Hackathons:** 3rd place @ Palantir, 9th nationally @ TSA
+- 🎸 **Beyond Code:** Electric guitar player & music enthusiast
+- ⚡ **Current Work:** Real-time AI systems & scalable infrastructure
+
+</td>
+</tr>
+</table>
+
+## 💼 Experience Timeline
+
+```mermaid
+gantt
+    title Professional Journey
+    dateFormat YYYY-MM
+    section Internships
+    JP Morgan Chase (SWE Intern)        :2022-06, 2023-08
+    section Research
+    University of Houston (Research)    :2024-06, 2024-11
+    section Current Roles
+    Longhorn Developers (SWE)           :2025-06, 2026-05
+    Texas Convergent (SWE)              :2025-06, 2026-05
+    Capital One (SWE)                   :2026-05, 2026-08
+```
+
+## 🔥 Featured Work
+
+<div align="center">
+
+| 🚀 Project | 💡 Innovation | 🛠️ Stack | 📊 Impact |
+|:-----------|:--------------|:----------|:----------|
+| **Texas Convergent - Ad Analytics** | Real-time audio streaming with Whisper AI for ad detection | `Python` `React` `Supabase` `GCP` `OpenAI` | 42% accuracy boost, 3x query speed |
+| **Longhorn Developers - AccessMap** | Crowd-sourced campus accessibility routing system | `TypeScript` `React Native` `Expo` `Supabase` | 10K+ queries, <100ms response |
+| **DetectFX Studio** | Hardware emulator with GPU-accelerated RNNs | `Python` `FastAPI` `React` `ML` | 400+ users, 90% accuracy |
+| **CoffeeChat (Palantir)** | Autonomous RAG scraper with NLP partitioning | `Python` `FastAPI` `NextJS` `Foundry` | 3rd/80+, 98% labeling accuracy |
+| **KGK Diagnosis** | Multi-model disease prediction system | `Python` `Streamlit` `HuggingFace` | 9th nationally, 97% accuracy |
+| **DormMatch** | Semantic search engine for UT dorm matching | `Python` `FastAPI` `React` `NLP` | 300+ students matched |
+
+</div>
+
+## 🎯 Technical Arsenal
+
+<div align="center">
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+
+### Specializations
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-0078D4?style=for-the-badge&logo=apache&logoColor=white)
+
+</div>
+
+## 📈 Impact Metrics
+
+<div align="center">
+
+| 🎯 Area | 📊 Achievement |
+|:--------|:---------------|
+| **User Reach** | 10,000+ active users across platforms |
+| **Performance** | 99% uptime on 50+ global servers |
+| **Optimization** | 3x faster queries, 42% accuracy improvements |
+| **Scale** | 100GB+ data processing, 10M+ records |
+| **Recognition** | Top 3 @ Palantir, Top 0.012% nationally |
+
+</div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ChetanGorantla&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C03&icon_color=F75C03&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChetanGorantla&theme=radical&hide_border=true&background=0D1117&stroke=F75C03&ring=F75C03&fire=F75C03&currStreakLabel=F75C03" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ChetanGorantla&bg_color=0D1117&color=F75C03&line=F85D7F&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+## 🎸 Beyond the Code
+
+<div align="center">
+
+When I'm not architecting distributed systems or optimizing ML pipelines, you'll find me:
+- 🎸 Shredding on my electric guitar
+- 🎵 Exploring new music production techniques  
+- ☕ Brewing the perfect cup of coffee
+- 📚 Learning about emerging tech & AI safety
+
+> *"The best code, like the best music, comes from understanding the fundamentals and then breaking the rules creatively."*
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+### 🚀 Currently Working On
+**Real-time AI Systems** • **Scalable Infrastructure** • **LLM Optimization**
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ChetanGorantla&label=Profile%20Views&color=F75C03&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ChetanGorantla?label=Followers&style=flat&color=F75C03" alt="Followers" />
+</p>
+
+<sub>⚡ Fun fact: I can debug code and tune a guitar by ear</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=100&section=footer" />
+
+</div>
