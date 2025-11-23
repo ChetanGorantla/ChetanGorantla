@@ -4,18 +4,18 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=180&section=header&text=Chetan%20Gorantla&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20Electric%20Guitar%20Enthusiast&descSize=18&descAlignY=55" alt="header"/>
 
 <!-- Dynamic Intro with Guitar Motif -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=F75C03&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=140&lines=Backend+Developer+%7C+Database+Engineer;Building+Scalable+Systems+at+UT+Austin;Building+Cool+Stuff+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=F75C03&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=140&lines=Backend+Developer+%7C+Scalable+Software+Architect;Building+Solutions+@+UT+Austin;Making+Cool+Stuff" alt="Typing SVG" />
 
 <!-- Social Badges -->
 <br/>
 <a href="https://www.linkedin.com/in/chetan-gorantla-93250a288/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-&nbsp;
+
 <a href="mailto:ccg2863@my.utexas.edu">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-&nbsp;
+
 <a href="https://github.com/ChetanGorantla">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
