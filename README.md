@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=180&section=header&text=Chetan%20Gorantla&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20Electric%20Guitar%20Enthusiast&descSize=18&descAlignY=55" alt="header"/>
 
 <!-- Dynamic Intro with Guitar Motif -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=F75C03&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=140&lines=Backend+Developer+%7C+Scalable+Software+Architect;Building+Solutions+@+UT+Austin;Making+Cool+Stuff" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=F75C03&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=140&lines=Backend+Developer+%7C+Scalable+Pipeline+Architect;Building+Solutions+@+UT+Austin;Making+Cool+Stuff" alt="Typing SVG" />
 
 <!-- Social Badges -->
 <br/>
@@ -47,7 +47,7 @@
 - Capital One
 
 **Technical Focus**
-> Distributed systems, ontological data routing, scalable infrastructure
+> Backend pipelines, ontological data routing, scalable infrastructure
 
 **When I'm Not Coding**
 > Shredding electric guitar riffs 🎸
