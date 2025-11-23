@@ -39,7 +39,9 @@
 - AI depth perception for hot-swappable image generation
 
 **Previously @**
-- JP Morgan Chase (2x) • University of Houston Research • Longhorn Developers
+- JP Morgan Chase (2x)
+- University of Houston Research
+- Longhorn Developers
 
 **Incoming @**
 - Capital One
@@ -67,9 +69,10 @@
 - 97% prediction accuracy across 35+ diseases
 
 **Dulles VikeBytes**
-- Hosted district-wide hackathon as CS Club President
+- Organized district-wide hackathon as CS Club President
 - Collaborated with GirlBytes to spread awareness
-- 50+ competitors, $300+ revenue
+- Led team of 15 officers to host event
+- 50+ competitors, $300+ revenue, 8 planning months
 
 </td>
 </tr>
@@ -86,8 +89,8 @@ gantt
     section Research
     University of Houston (Research)    :2024-06, 2024-11
     section Current Roles
-    Longhorn Developers (SWE)           :2025-06, 2026-05
-    Texas Convergent (SWE)              :2025-06, 2026-05
+    Longhorn Developers (SWE)           :2025-06, 2025-08
+    Texas Convergent (SWE)              :2025-09, 2026-05
     Capital One (SWE)                   :2026-05, 2026-08
 ```
 
@@ -97,10 +100,10 @@ gantt
 
 | 🚀 Project | 💡 Innovation | 🛠️ Stack | 📊 Impact |
 |:-----------|:--------------|:----------|:----------|
-| **Texas Convergent - AdTalk** | Real-time audio streaming with Whisper AI for advertisement detection | `Python` `React` `Supabase` `GCP` `OpenAI` | 42% accuracy boost, 3x query speed |
-| **Longhorn Developers - Mobilize UT** | Crowd-sourced campus accessibility routing system | `TypeScript` `React Native` `Expo` `Supabase` | 10K+ queries, <100ms response |
+| **Texas Convergent - AdTalk** | Real-time audio streaming with Whisper AI for advertisement detection. Autonomous data processing pipeline with GCS, Supabase, and Python, served to a React dashboard | `Python` `React` `Supabase` `GCP` `OpenAI` | 42% accuracy boost, 3x query speed |
 | **DetectFX Studio** | Smart amplifier emulator with GPU-accelerated RNNs. Reverse-engineered proprietary DSP modularity algorithms | `Python` `FastAPI` `React` `ML` | 400+ users, 90% audio deconstruction accuracy |
 | **CoffeeChat (Palantir)** | Autonomous RAG scraper with NLP partitioning | `Python` `FastAPI` `NextJS` `Foundry` | 3rd/80+, 98% labeling accuracy |
+| **Longhorn Developers - Mobilize UT** | Crowd-sourced campus accessibility routing system | `TypeScript` `React Native` `Expo` `Supabase` | 10K+ queries, <100ms response |
 | **KGK Diagnosis** | Multi-model disease prediction system | `Python` `Streamlit` `HuggingFace` | 9th nationally, 97% accuracy |
 | **DormMatch** | Semantic search engine for UT dorm matching | `Python` `FastAPI` `React` `NLP` | 300+ students matched |
 
