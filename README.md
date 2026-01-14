@@ -37,6 +37,7 @@
 **Currently Building @**
 - Texas Convergent (Forge team) → Real-time ad analytics
 - AI depth perception for hot-swappable image generation
+- Cursor for DAWs (Custom MCP server for DAW plugins)
 
 **Previously @**
 - JP Morgan Chase (2x)
